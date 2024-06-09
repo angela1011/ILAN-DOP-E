@@ -1,4 +1,5 @@
 Introduction
+
   The Ilan Plain in northern Taiwan, located at the southwestern tip of the Okinawa, is subject to back-arc extension potentially with magma intrusion and elevated geotherm. 
 To explore its geothermal resources, a nested dense seismic array comprising 81 stations covering the entire Ilan Plain and 186 sensors positioned around the Hongchailin area was deployed from July 2022 to January 2023. 
   In this study, the Horizontal-to-Vertical Spectral Ratio (HVSR) method is first employed to constrain the basement geometry of the Ilain Plain. We performed the Fourier transform for three-component data at each station, derived and smoothed H/V amplitude spectral ratio, and searched for the spectral peak. The peak represents a resonant frequency that corresponds to the thickness of alluvial deposits overlying the bedrock. 
