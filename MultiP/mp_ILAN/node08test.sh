@@ -5,8 +5,6 @@
 #PBS -e period3_node8_error
 
 # Change to the directory where your Python script is located
-#cd /data/paui0615/TEST
-#cd /home/angela__kang/work/Example-DOP-E/Measurement/mpitest
 cd /home/angela__kang/work/mpitest_ILAN
 echo "Running on node: $(hostname)"
 
