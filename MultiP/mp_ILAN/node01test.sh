@@ -5,7 +5,6 @@
 #PBS -e period1_node1_error
 
 # Change to the directory where your Python script is located
-
 cd /home/angela__kang/work/mpitest_ILAN
 echo "Running on node: $(hostname)"
 
