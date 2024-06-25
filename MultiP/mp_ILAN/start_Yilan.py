@@ -70,7 +70,7 @@ elif mode == "5":
 #     sta_list.append(f[i].split(",")[0])
 # sta_list=sorted(sta_list)
 
-#ngela__kang@192.168.211.77's passw sta_task=[]
+# sta_task=[]
 # seg=5   
 
 # index=math.floor(len(sta_list)/seg)
